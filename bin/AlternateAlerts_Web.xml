@@ -1,0 +1,1769 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AlternateAlerts_Web
+</name>
+</assembly>
+<members>
+<member name="F:AlternateAlerts_Web.waynecounty911.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.waynecounty911.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.waynecounty911.dsDrivingDirections">
+	<summary>
+dsDrivingDirections control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Stations.accordionProfile">
+	<summary>
+accordionProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Stations.AccordionPane1">
+	<summary>
+AccordionPane1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Stations.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Stations.sqlGetContactStations">
+	<summary>
+sqlGetContactStations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Stations.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AA.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AA.frmMain">
+	<summary>
+frmMain control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AA.logo">
+	<summary>
+logo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AA.Left_Header">
+	<summary>
+Left_Header control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AA.Left_News">
+	<summary>
+Left_News control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AA.Right_Content">
+	<summary>
+Right_Content control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.tblLogin">
+	<summary>
+tblLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.TableRow1">
+	<summary>
+TableRow1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.TableCell1">
+	<summary>
+TableCell1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.TableCell2">
+	<summary>
+TableCell2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.tbUsername">
+	<summary>
+tbUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.TableCell3">
+	<summary>
+TableCell3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.TableRow2">
+	<summary>
+TableRow2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.TableCell4">
+	<summary>
+TableCell4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.TableCell5">
+	<summary>
+TableCell5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.tbPassword">
+	<summary>
+tbPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.TableCell6">
+	<summary>
+TableCell6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.btnLogin">
+	<summary>
+btnLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.TableRow3">
+	<summary>
+TableRow3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.TableCell7">
+	<summary>
+TableCell7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.TableRow4">
+	<summary>
+TableRow4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.login1.TableCell8">
+	<summary>
+TableCell8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.MassMessage.panelSuccess">
+	<summary>
+panelSuccess control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.MassMessage.lblSuccessMessage">
+	<summary>
+lblSuccessMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.MassMessage.checklistDelivery">
+	<summary>
+checklistDelivery control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.MassMessage.timeOffset">
+	<summary>
+timeOffset control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.MassMessage.checklistStations">
+	<summary>
+checklistStations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.MassMessage.sqlGetContactStations">
+	<summary>
+sqlGetContactStations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.MassMessage.tbMessage">
+	<summary>
+tbMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.MassMessage.panelVoiceMessage">
+	<summary>
+panelVoiceMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.MassMessage.tbVoiceMessage">
+	<summary>
+tbVoiceMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.MassMessage.tbTextNumber">
+	<summary>
+tbTextNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.MassMessage.btnTestVoice">
+	<summary>
+btnTestVoice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.MassMessage.btnSubmit">
+	<summary>
+btnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.MassMessage.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.ChangePassword1.CompareValidator1">
+	<summary>
+CompareValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.ChangePassword1.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.ChangePassword1.tbCurrentPW">
+	<summary>
+tbCurrentPW control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.ChangePassword1.rfvCurrentPw">
+	<summary>
+rfvCurrentPw control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.ChangePassword1.tbPassword">
+	<summary>
+tbPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.ChangePassword1.rfvPassword">
+	<summary>
+rfvPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.ChangePassword1.tbPassword2">
+	<summary>
+tbPassword2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.ChangePassword1.rfvPassword2">
+	<summary>
+rfvPassword2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.ChangePassword1.btnChangePW">
+	<summary>
+btnChangePW control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web._default.frmAuthentication">
+	<summary>
+frmAuthentication control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web._default.tblLogin">
+	<summary>
+tblLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web._default.tbUsername">
+	<summary>
+tbUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web._default.tbPassword">
+	<summary>
+tbPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web._default.btnLogin">
+	<summary>
+btnLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web._default.lblWelcome">
+	<summary>
+lblWelcome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web._default.pnlMaintenance">
+	<summary>
+pnlMaintenance control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web._default.linkUserProfile">
+	<summary>
+linkUserProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web._default.linkHome">
+	<summary>
+linkHome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web._default.hlAlertLog">
+	<summary>
+hlAlertLog control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.log.dlRescueStation">
+	<summary>
+dlRescueStation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.log.sqlStations">
+	<summary>
+sqlStations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.log.gvRescueLog">
+	<summary>
+gvRescueLog control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.log.sqlRescueLog">
+	<summary>
+sqlRescueLog control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Members.accordionProfile">
+	<summary>
+accordionProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Members.AccordionPane1">
+	<summary>
+AccordionPane1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Members.gvMembers">
+	<summary>
+gvMembers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Members.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Login.RegisterHyperLink">
+	<summary>
+RegisterHyperLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Login.LoginUser">
+	<summary>
+LoginUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.lblWelcome">
+	<summary>
+lblWelcome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.tblLogin">
+	<summary>
+tblLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.TableRow1">
+	<summary>
+TableRow1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.TableCell1">
+	<summary>
+TableCell1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.TableCell2">
+	<summary>
+TableCell2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.tbUsername">
+	<summary>
+tbUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.TableCell3">
+	<summary>
+TableCell3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.TableRow2">
+	<summary>
+TableRow2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.TableCell4">
+	<summary>
+TableCell4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.TableCell5">
+	<summary>
+TableCell5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.tbPassword">
+	<summary>
+tbPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.TableCell6">
+	<summary>
+TableCell6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.btnLogin">
+	<summary>
+btnLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.TableRow3">
+	<summary>
+TableRow3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.TableCell7">
+	<summary>
+TableCell7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.TableRow4">
+	<summary>
+TableRow4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.TableCell8">
+	<summary>
+TableCell8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.pnlMaintenance">
+	<summary>
+pnlMaintenance control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.linkUserProfile">
+	<summary>
+linkUserProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.linkHome">
+	<summary>
+linkHome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.hlAlertLog">
+	<summary>
+hlAlertLog control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Site1.ContentPlaceHolder1">
+	<summary>
+ContentPlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.UserList.GridView1">
+	<summary>
+GridView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.UserList.allUsersDataSource">
+	<summary>
+allUsersDataSource control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.organization.fvNewOrg">
+	<summary>
+fvNewOrg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.organization.sqlMyOrganizations">
+	<summary>
+sqlMyOrganizations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.organization.gvOrganizations">
+	<summary>
+gvOrganizations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.organization.GetOrganizations">
+	<summary>
+GetOrganizations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.ManageProfile.hlViewYourProfile">
+	<summary>
+hlViewYourProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.ManageProfile.dvYourProfile">
+	<summary>
+dvYourProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.ManageProfile.dsUserDetails">
+	<summary>
+dsUserDetails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:AlternateAlerts_Web.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:AlternateAlerts_Web.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:AlternateAlerts_Web.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:AlternateAlerts_Web.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:AlternateAlerts_Web.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:AlternateAlerts_Web.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:AlternateAlerts_Web.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:AlternateAlerts_Web.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:AlternateAlerts_Web.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AlternateAlerts_Web.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AlternateAlerts_Web.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:AlternateAlerts_Web.RescueAlertLog.dlRescueStation">
+	<summary>
+dlRescueStation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.RescueAlertLog.sqlStations">
+	<summary>
+sqlStations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.RescueAlertLog.gvRescueLog">
+	<summary>
+gvRescueLog control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.RescueAlertLog.sqlRescueLog">
+	<summary>
+sqlRescueLog control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AA_CSS.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AA_CSS.mainFRM">
+	<summary>
+mainFRM control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AA_CSS.logo">
+	<summary>
+logo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AA_CSS.ContentPlaceHolder2">
+	<summary>
+ContentPlaceHolder2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AA_CSS.lblLastDispatch">
+	<summary>
+lblLastDispatch control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AA_CSS.lblDispatchLink">
+	<summary>
+lblDispatchLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AA_CSS.Right_Content">
+	<summary>
+Right_Content control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.modal_xref_memberstation.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.modal_xref_memberstation.ddlMembers">
+	<summary>
+ddlMembers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.modal_xref_memberstation.ddlStations">
+	<summary>
+ddlStations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.modal_xref_memberstation.save">
+	<summary>
+save control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.accordionProfile">
+	<summary>
+accordionProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.AccordionPane1">
+	<summary>
+AccordionPane1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.FormViewPersonalInfo">
+	<summary>
+FormViewPersonalInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.sqlProfilePersonal">
+	<summary>
+sqlProfilePersonal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.AccordionPane2">
+	<summary>
+AccordionPane2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.chklistStations">
+	<summary>
+chklistStations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.btnUpdateStations">
+	<summary>
+btnUpdateStations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.sqlAvailableStations">
+	<summary>
+sqlAvailableStations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.AccordionPane3">
+	<summary>
+AccordionPane3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.gvAlertsSettings">
+	<summary>
+gvAlertsSettings control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.AccordionPane5">
+	<summary>
+AccordionPane5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.fvAddAlertSchedule">
+	<summary>
+fvAddAlertSchedule control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.sqlAlertIntervals">
+	<summary>
+sqlAlertIntervals control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.sqlAlertModes">
+	<summary>
+sqlAlertModes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.sqlSelectedStations">
+	<summary>
+sqlSelectedStations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.sqlAddAlertSchedule">
+	<summary>
+sqlAddAlertSchedule control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.gvAlertScheduleList">
+	<summary>
+gvAlertScheduleList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.sqlGetAlertSchedules">
+	<summary>
+sqlGetAlertSchedules control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.profile.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.lastSMS.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.lastSMS.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web._New.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Contact.tbName">
+	<summary>
+tbName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Contact.tbAgency">
+	<summary>
+tbAgency control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Contact.tbPhone">
+	<summary>
+tbPhone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Contact.tbEmail">
+	<summary>
+tbEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Contact.tbBestTime">
+	<summary>
+tbBestTime control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Contact.btnContact">
+	<summary>
+btnContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.CreateAccount.CreateUserWizard1">
+	<summary>
+CreateUserWizard1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.CreateAccount.ValidationSummary1">
+	<summary>
+ValidationSummary1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Register.RegisterUser">
+	<summary>
+RegisterUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Register.RegisterUserWizardStep">
+	<summary>
+RegisterUserWizardStep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Login.myLogin">
+	<summary>
+myLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:AlternateAlerts_Web.tones.tones.#ctor">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.ListPagesByStationCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.ListPagesByStation_DataTableCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.ListPagesCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.ListStationsCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.UploadFileCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.UploadFile_NonPostCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.GetRecordingAudioCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.GetRecordingFileCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.BuildNumbersCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.TruncateTonesFolderCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.TextToSpeechByStationCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.TextToSpeechByPhoneNumberCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.UpdateBroadcast_OCNCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.Get_OCN_BroadcastDetailsCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.ConvertMP3toWavCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.SendSMSCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.SendMMSCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.GetLastSMSCompleted">
+	<remarks/>
+</member><member name="E:AlternateAlerts_Web.tones.tones.GetStationIDByWeatherKeyCompleted">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ListPagesByStation(System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ListPagesByStationAsync(System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ListPagesByStationAsync(System.String,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ListPagesByStation_DataTable(System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ListPagesByStation_DataTableAsync(System.Int32,System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ListPagesByStation_DataTableAsync(System.Int32,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ListPages">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ListPagesAsync">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ListPagesAsync(System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ListStations">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ListStationsAsync">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ListStationsAsync(System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.UploadFile">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.UploadFileAsync">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.UploadFileAsync(System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.UploadFile_NonPost(System.Byte[],System.String,System.Int32,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.UploadFile_NonPostAsync(System.Byte[],System.String,System.Int32,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.UploadFile_NonPostAsync(System.Byte[],System.String,System.Int32,System.String,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.GetRecordingAudio(System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.GetRecordingAudioAsync(System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.GetRecordingAudioAsync(System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.GetRecordingFile(System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.GetRecordingFileAsync(System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.GetRecordingFileAsync(System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.BuildNumbers(System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.BuildNumbersAsync(System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.BuildNumbersAsync(System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.TruncateTonesFolder">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.TruncateTonesFolderAsync">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.TruncateTonesFolderAsync(System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.TextToSpeechByStation(System.Int32,System.String)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.TextToSpeechByStationAsync(System.Int32,System.String)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.TextToSpeechByStationAsync(System.Int32,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.TextToSpeechByPhoneNumber(System.String,System.String)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.TextToSpeechByPhoneNumberAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.TextToSpeechByPhoneNumberAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.UpdateBroadcast_OCN(System.Int32,System.String)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.UpdateBroadcast_OCNAsync(System.Int32,System.String)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.UpdateBroadcast_OCNAsync(System.Int32,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.Get_OCN_BroadcastDetails(System.String)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.Get_OCN_BroadcastDetailsAsync(System.String)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.Get_OCN_BroadcastDetailsAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ConvertMP3toWav(System.Int32,System.String)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ConvertMP3toWavAsync(System.Int32,System.String)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.ConvertMP3toWavAsync(System.Int32,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.SendSMS(System.Int32,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.SendSMSAsync(System.Int32,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.SendSMSAsync(System.Int32,System.String,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.SendMMS(System.Int32,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.SendMMSAsync(System.Int32,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.SendMMSAsync(System.Int32,System.String,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.GetLastSMS(System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.GetLastSMSAsync(System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.GetLastSMSAsync(System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.GetStationIDByWeatherKey(System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.GetStationIDByWeatherKeyAsync(System.Int32)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.GetStationIDByWeatherKeyAsync(System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:AlternateAlerts_Web.tones.tones.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.tones">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.ListPagesByStationCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.ListPagesByStationCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.ListPagesByStationCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.ListPagesByStation_DataTableCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.ListPagesByStation_DataTableCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.ListPagesByStation_DataTableCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.ListPagesCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.ListPagesCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.ListPagesCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.ListStationsCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.ListStationsCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.ListStationsCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.UploadFileCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.UploadFileCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.UploadFileCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.UploadFile_NonPostCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.UploadFile_NonPostCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.UploadFile_NonPostCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.GetRecordingAudioCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.GetRecordingAudioCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.GetRecordingAudioCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.GetRecordingFileCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.GetRecordingFileCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.GetRecordingFileCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.BuildNumbersCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.BuildNumbersCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.BuildNumbersCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.TruncateTonesFolderCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.TruncateTonesFolderCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.TruncateTonesFolderCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.TextToSpeechByStationCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.TextToSpeechByStationCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.TextToSpeechByStationCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.TextToSpeechByPhoneNumberCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.TextToSpeechByPhoneNumberCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.TextToSpeechByPhoneNumberCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.UpdateBroadcast_OCNCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.UpdateBroadcast_OCNCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.UpdateBroadcast_OCNCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.Get_OCN_BroadcastDetailsCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.Get_OCN_BroadcastDetailsCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.Get_OCN_BroadcastDetailsCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.ConvertMP3toWavCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.ConvertMP3toWavCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.ConvertMP3toWavCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.SendSMSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.SendSMSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.SendSMSCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.SendMMSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.SendMMSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.SendMMSCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.GetLastSMSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.GetLastSMSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.GetLastSMSCompletedEventArgs">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.GetStationIDByWeatherKeyCompletedEventHandler">
+	<remarks/>
+</member><member name="P:AlternateAlerts_Web.tones.GetStationIDByWeatherKeyCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:AlternateAlerts_Web.tones.GetStationIDByWeatherKeyCompletedEventArgs">
+	<remarks/>
+</member><member name="F:AlternateAlerts_Web.ChangePassword.ChangeUserPassword">
+	<summary>
+ChangeUserPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Admin1.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Admin1.mainFRM">
+	<summary>
+mainFRM control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Admin1.logo2">
+	<summary>
+logo2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Admin1.lblWelcome">
+	<summary>
+lblWelcome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.Admin1.adminContentPlaceholder">
+	<summary>
+adminContentPlaceholder control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.UsersOnly_Default.LoginName1">
+	<summary>
+LoginName1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.UsersOnly_Default.LoginName2">
+	<summary>
+LoginName2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web._default1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.UserDetails.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.UserDetails.dvYourProfile">
+	<summary>
+dvYourProfile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.UserDetails.dsUserDetails">
+	<summary>
+dsUserDetails control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.panelCell">
+	<summary>
+panelCell control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.tbContactPhone">
+	<summary>
+tbContactPhone control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.btnCheckContact">
+	<summary>
+btnCheckContact control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.panelNewMember">
+	<summary>
+panelNewMember control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.ddlOrganizations">
+	<summary>
+ddlOrganizations control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.contactFirstName">
+	<summary>
+contactFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.contactLastName">
+	<summary>
+contactLastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.contactEmail">
+	<summary>
+contactEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.contactCellNumber">
+	<summary>
+contactCellNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.contactCarrierID">
+	<summary>
+contactCarrierID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.sqlCarriers">
+	<summary>
+sqlCarriers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.contactPassword">
+	<summary>
+contactPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.InsertButton">
+	<summary>
+InsertButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.ddlOrganizations2">
+	<summary>
+ddlOrganizations2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlternateAlerts_Web.AddMember.btnLink">
+	<summary>
+btnLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,165 @@
+﻿.no-space [class*="span"] {
+    margin-left: 0;
+    
+}
+
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+a:hover {text-decoration:none;}
+a:active {text-decoration:none;}
+
+.navheader
+{
+    height: 60px;
+    background-color: #c5132f;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+    text-decoration: none;
+    float:left;
+    width:100%;
+}
+
+.navheader-height
+{
+    height: 95px;
+}
+
+.navheader-home
+{
+    height: 60px;
+    background-color: #c5132f;
+}
+
+.navheader-home:hover
+{
+    height: 90px;
+    background-color: #c5132f;
+}
+
+.navheader-agencies
+{
+    height: 60px;
+    background-color: #a5a29f;
+}
+
+.navheader-agencies:hover
+{
+    height: 90px;
+    background-color: #a5a29f;
+}
+
+.navheader-products
+{
+    height: 60px;
+    background-color: #7a7672;
+}
+
+.navheader-products:hover
+{
+    height: 90px;
+    background-color: #7a7672;
+}
+
+.navheader-alertlog
+{
+    height: 60px;
+    background-color: #544e48;
+}
+
+.navheader-alertlog:hover
+{
+    height: 90px;
+    background-color: #544e48;
+}
+
+.navheader-contact
+{
+    height: 60px;
+    background-color: #25221f;
+}
+
+.navheader-contact:hover
+{
+    height: 90px;
+    background-color: #25221f;
+}
+
+.latestDispatch
+{
+    font-size: 10px;
+    padding-top: 3px;
+    text-align: right;
+}
+
+.login
+{
+    font-size: 10px;
+    color: black;
+    padding-top: 2px;
+    text-align: right;
+    text-decoration: none;
+    
+}
+
+.a-black
+{
+    text-decoration: none;
+    color: black;
+}
+
+#logo
+{
+    padding-top: 25px;
+}
+
+#footerCorp
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-top: 25px;
+}
+
+#footerSocial
+{
+
+
+   	height: 48px;
+   	text-align:right;
+
+    
+}
+
+#contentLeft-Header
+{
+    top: 150px;
+    left: 5px;
+    width: 420px;
+    position: absolute;
+    text-align: right;
+    z-index: 1;
+}
+
+#contentLeft
+{
+    top: 620px;
+    left: 5px;
+    width: 420px;
+    position: absolute;
+    background-color: #817569;
+    z-index: 10;
+}
+
+#contentRight
+{
+    padding-top: 25px;
+}
+
+.login_table_td
+{
+    margin-left:50px;
+    margin-top: 50px;
+}

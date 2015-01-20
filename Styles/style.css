@@ -1,0 +1,117 @@
+
+#authentication {
+	height: 100px;
+	width: 250px;
+	position: absolute;
+	top: 10px;
+	right: 2px;
+	font-size: 10px;
+	z-index: 100;
+}
+
+#maintenance {
+	height: 100px;
+	width: 250px;
+	position: absolute;
+	top: 10px;
+	right: 2px;
+	font-size: 10px;
+	z-index: 100;
+}
+
+
+.FireEMS {
+	color: #F00;
+}
+.login_welcome {
+	font-size: 10pt;
+	font-weight: bold;
+	color: #808080;
+	padding-right: 10px;
+}
+
+.AccordionPanelTab
+{
+    background-color: #a5a29f;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+    margin: 0px;
+    padding: 2px;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 14px;
+    text-align:left;
+}
+
+.AccordionPanelTabSelected
+{
+    background-color: #c5132f;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+    margin: 0px;
+    padding: 2px;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 14px;
+    text-align:left;
+
+}
+
+.input12
+{
+    font-size: 12px;
+}
+
+
+
+div.ProfileContainer_old {
+    width:98%; 
+    margin:1%;
+  }  
+  
+  
+.homeLinks
+{
+    color: #000000;
+    text-decoration: none;
+}
+
+.hidden
+{
+    display: none;
+}
+
+.ProfileContainer_Text
+{
+    font-size: 12px;
+    text-align: left;
+    margin-right: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.ValidationError
+{
+    color: #FF0000;
+}
+
+.gvAlertScheduleList
+{
+    margin-left: 5px;
+    font-size: 12px;
+}
+
+
+.memberListSub
+{
+    
+    font-size: 10px;
+    margin-left: 40px;
+}
+
+.memberList
+{
+    font-size: 12px;
+}

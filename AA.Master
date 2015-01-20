@@ -1,0 +1,61 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="AA.master.vb" Inherits="AlternateAlerts_Web.AA" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Alternate Alerts - a secondary means of dispatch</title>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    
+    </asp:ContentPlaceHolder>
+    <link href="Styles/Master.css" rel="stylesheet" type="text/css" />
+    <script src="Scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <script src="Scripts/jquery-ui-1.8.18.custom.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+         $(document).ready(function () {
+//            $('#navheader-home').hover(function () {
+//                    //alert('hover');
+//                    $('#navheader-home').css("height", "60");
+//                }
+//                $('#navheader-home').css("height", "90");
+//            )
+        })
+    </script>
+</head>
+<body>
+    <form id="frmMain" runat="server">
+    <div id="logo">
+        <asp:Image ID="logo" runat="server" AlternateText="Alternate Alerts" 
+            ImageUrl="/images/logo.gif" />
+    </div>
+    <div id="navheader">
+        <a href="/default.aspx"><span><div id="navheader-home">Home</div></span></a>
+        <a href="/agencies.aspx"><span><div id="navheader-agencies">Agencies</div></span></a>
+        <a href=""><span><div id="navheader-products">Products</div></span></a>
+        <a href="/log.aspx"><span><div id="navheader-alertlog">Alert Log</div></span></a>
+        <a href="/contact.aspx"><span><div id="navheader-contact">Contact</div></span></a>
+    </div>
+    <div id="latestDispatch">
+        Latest Dispatch: Lawrence Twp Fire - 4/13/12 @ 14:35
+    </div>
+    <div id="contentLeft-Header">
+        <asp:ContentPlaceHolder ID="Left_Header" runat="server">
+            <img alt="Firefighter" class="style1" src="images/fireguy.gif" />
+        </asp:ContentPlaceHolder>
+    </div>
+    <div id="contentLeft">
+        <asp:ContentPlaceHolder ID="Left_News" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    <div id="contentRight">
+        <asp:ContentPlaceHolder ID="Right_Content" runat="server"></asp:ContentPlaceHolder>
+    </div>
+    <div id="footerCorp">©2012 Alternate Alerts - An S&C Associates Company</div>
+    <div id="footerSocial"><img alt="RSS Feeds" src="images/rss.gif" />
+    <a href="http://www.facebook.com/pages/Alternate-Alerts/265665623491994" target="_blank"><img alt="Facebook" src="images/facebook.gif" border="0" /></a><a href="https://twitter.com/#!/AlternateAlerts" target="_blank"><img alt="Twitter" src="images/twitter.gif" border="0" /></a></div>
+    
+    </form>
+</body>
+</html>

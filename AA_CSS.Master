@@ -1,0 +1,146 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="AA_CSS.master.vb" Inherits="AlternateAlerts_Web.AA_CSS" %>
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Alternate Alerts - a secondary means of dispatch</title>
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <link href="assets/css/jgauge.css" rel="stylesheet" />
+    <link href="assets/css/bootstrap-responsive.css" rel="stylesheet" />
+    <link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/Master.css" rel="stylesheet" type="text/css" />
+    <!--[if IE]><script type="text/javascript" language="javascript" src="assets/js/excanvas.min.js"></script><![endif]-->
+    <script language="javascript" type="text/javascript" src="assets/js/jquery-1.4.2.min.js"></script>
+    <!-- jQuery JavaScript library. -->
+    <script language="javascript" type="text/javascript" src="assets/js/jQueryRotate.min.js"></script>
+    <!-- jQueryRotate plugin used for needle movement. -->
+    <script language="javascript" type="text/javascript" src="assets/js/jgauge-0.3.0.a3.js"></script>
+    <!-- jGauge JavaScript. -->
+    <script src="assets/js/jquery.js"></script>
+    <script src="assets/js/bootstrap-transition.js"></script>
+    <script src="assets/js/bootstrap-alert.js"></script>
+    <script src="assets/js/bootstrap-modal.js"></script>
+    <script src="assets/js/bootstrap-dropdown.js"></script>
+    <script src="assets/js/bootstrap-scrollspy.js"></script>
+    <script src="assets/js/bootstrap-tab.js"></script>
+    <script src="assets/js/bootstrap-tooltip.js"></script>
+    <script src="assets/js/bootstrap-popover.js"></script>
+    <script src="assets/js/bootstrap-button.js"></script>
+    <script src="assets/js/bootstrap-collapse.js"></script>
+    <script src="assets/js/bootstrap-carousel.js"></script>
+    <script src="assets/js/bootstrap-typeahead.js"></script>
+    <script src="assets/js/jQueryRotate.min.js"></script>
+    <script src="assets/js/jgauge-0.3.0.a3.js"></script>
+    <!-- Copy this script into your html file to enable Application Insights -->
+    <script type="text/javascript">
+        window.appInsights = { queue: [], applicationInsightsId: null, accountId: null, appUserId: null, configUrl: null, start: function (n) { function u(n, t) { n[t] = function () { var i = arguments; n.queue.push(function () { n[t].apply(n, i) }) } } function f(n) { var t = document.createElement("script"); return t.type = "text/javascript", t.src = n, t.async = !0, t } function r() { i.appendChild(f("//az416426.vo.msecnd.net/scripts/ai.0.js")) } var i, t; this.applicationInsightsId = n; u(this, "logEvent"); u(this, "logPageView"); i = document.getElementsByTagName("script")[0].parentNode; this.configUrl === null ? r() : (t = f(this.configUrl), t.onload = r, t.onerror = r, i.appendChild(t)); this.start = function () { } } };
+        appInsights.start("af014370-9d4d-4996-9289-b3a73b83a028");
+        appInsights.logPageView();
+    </script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    
+    </asp:ContentPlaceHolder>
+
+  </head>
+
+  <body>
+  <form id="mainFRM" runat="server">
+<%--<div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container"> 
+                Latest Dispatch: Lawrence Twp Fire - 4/13/12 @ 14:35 
+        </div>
+      </div>
+</div>--%>
+<div class="container">
+
+  <div class="row">
+        <div class="span3">
+            <div id="logo"><asp:Image ID="logo" runat="server" AlternateText="Alternate Alerts" ImageUrl="/images/logo.gif" /></div>
+            <img alt="Firefighter" src="images/fireguy_220.gif" />
+            <div id="contentLeft">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                </asp:ContentPlaceHolder>
+           </div>
+        </div>
+        <div class="span9">
+            <div class="row">
+                 <div class="span12 no-space navheader-height">
+                    <div class="span2"><a href="/default.aspx"><div class="navheader navheader-home"><br />Home</div></a></div>
+                    <div class="span2"><a href="/agencies.aspx"><div class="navheader navheader-agencies"><br />Agencies</div></a></div>
+                    <div class="span2"><a href="/products.aspx"><div class="navheader navheader-products"><br />Products</div></a></div>
+                    <div class="span2"><a href="/log.aspx"><div class="navheader navheader-alertlog"><br />Alert Log</div></a></div>
+                    <div class="span2"><a href="/contact.aspx"><div class="navheader navheader-contact"><br />Contact</div></a></div>
+                 </div>
+            </div>
+            <div class="row">
+                <div class="span9">
+                    <div class="login"><a href="/control/default.aspx"><div class="login">Member Login <i class="icon-globe"></i></div></a></div>
+                    <div class="latestDispatch">Latest Dispatch: <asp:Label ID="lblLastDispatch" runat="server" Text="Lawrence Twp Fire - 4/13/12 @ 14:35"></asp:Label><asp:label ID="lblDispatchLink" runat="server"></asp:label></div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="span9">
+                    <div id="contentRight">
+                        <asp:ContentPlaceHolder ID="Right_Content" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="span6">
+             <div id="footerCorp">©2012 Alternate Alerts - An S&C Associates Company</div>
+        </div>
+        <div class="span6">
+             <div id="footerSocial"><img alt="RSS Feeds" src="images/rss.gif" /><a href="http://www.facebook.com/pages/Alternate-Alerts/265665623491994" target="_blank"><img alt="Facebook" src="images/facebook.gif" border="0" /></a><a href="https://twitter.com/#!/AlternateAlerts" target="_blank"><img alt="Twitter" src="images/twitter.gif" border="0" /></a></div>
+        </div>
+    </div>   
+</div> <!-- /container -->
+   <div id="modal-player" class="modal hide">
+                                    <script type="text/javascript">
+                                        jQuery(function ($) {
+                                            //                                            $('#modal-player').css({
+                                            //                                                'width': function () {
+                                            //                                                    return ($(document).width() * .7) + 'px';
+                                            //                                                },
+                                            //                                                'margin-left': function () {
+                                            //                                                    return -($(this).width() / 2);
+                                            //                                                }
+                                            //                                            });
+                                            // find all tr's with a data-href attribute
+                                            $('div a[data-href]').click(function () {
+                                                // copy the data-href value to the modal for later use
+                                                $('#modal-player').attr('data-href', $(this).attr('data-href'));
+                                                // show the modal window
+                                                $('#modal-player').modal({ show: true, backdrop: true, keyboard: true });
+                                            }).find('a').hover(function () {
+                                                // unbind it in case I put some a tags in the table row eventually
+                                                $(this).parents('div').unbind('click');
+                                            }, function () {
+                                                $(this).parents('div').click(function () {
+                                                    // rebind it
+                                                    $('#modal-player').attr('data-href', $(this).attr('data-href'));
+                                                    $('#modal-player').modal({ show: true, backdrop: true, keyboard: true });
+                                                });
+                                            });
+
+                                            // when the modal show event fires, load the url that was copied to the data-href attribute
+                                            $('#modal-player').bind('show', function () {
+                                                $(this).load($(this).attr('data-href'));
+                                            });
+                                        });
+
+                                        
+</script>
+                                    </div>
+ </form>
+  </body>
+</html>
